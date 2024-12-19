@@ -66,9 +66,9 @@ We are continuously exploring new technologies and trends in the blockchain spac
 
 ### 📈 Upcoming Listings
 - **Lbank:** We are actively working to list KuttCoin on Binance.com to increase accessibility and liquidity.
--**Dedust (TON):** listed
--**Pancake (BSC):** listed
--**CEX MintMe (BSC):** listed
+- **Dedust (TON):** listed
+- **Pancake (BSC):** listed
+- **CEX MintMe (BSC):** listed
 
 ### 😄 Pronouns
 We respect and acknowledge all pronouns.
